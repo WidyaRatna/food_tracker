@@ -67,27 +67,6 @@ C:\xampp\htdocs\food_tracker
 
 ---
 
-## 📖 Panduan Penggunaan
-
-‎### 1. Registrasi / Login
-- Masuk ke menu **Register** dan isi data pribadi Anda.
-- Jika sudah memiliki akun, langsung **Login**.
-### 2. Input Makanan
-- Masukkan makanan dan beratnya di menu **Input Makanan** dan klik **+ Tambah Makanan** untuk memulai perhitungan.
-### 3. Lihat Laporan Nutrisi
-- Buka bagian bawah menu **Food Tracker** untuk melihat laporan nutrisi yang berisi total asupan hari itu, sistem akan menampilkan data membandingkan data tersebut dengan kebutuhan kalori harian (TDEE & BMR).
-### 4. Simpan Laporan
-- Klik **Simpan Laporan Hari Ini** agar data masuk ke riwayat laporan.
-### 5. Lihat Riwayat Laporan
-- Buka menu **Riwayat Laporan** untuk melihat data laporan nutrisi dari hari-hari sebelumnya.
-### 6. Dashboard 
-- Kunjungi **Dashboard** untuk melihat dan mengedit profil serta melihat informasi BMI pengguna.
-### 7. Logout
-- Klik **Logout** untuk keluar dari sistem.
-
-## 🎥 Cek Demo Website Kita Pada:
-👉 [https://wpwbmi.infinityfreeapp.com/]( https://wpwbmi.infinityfreeapp.com/)
-
 ## 🗂️ Struktur File
 ```
 food_tracker/
@@ -121,5 +100,29 @@ food_tracker/
 ├── user-detail1.php
 └── users1.php
 ```
+
+---
+
+## 📖 Panduan Penggunaan
+
+‎### 1. Registrasi / Login
+- Masuk ke menu **Register** dan isi data pribadi Anda.
+- Jika sudah memiliki akun, langsung **Login**.
+### 2. Input Makanan
+- Masukkan makanan dan beratnya di menu **Input Makanan** dan klik **+ Tambah Makanan** untuk memulai perhitungan.
+### 3. Lihat Laporan Nutrisi
+- Buka bagian bawah menu **Food Tracker** untuk melihat laporan nutrisi yang berisi total asupan hari itu, sistem akan menampilkan data membandingkan data tersebut dengan kebutuhan kalori harian (TDEE & BMR).
+### 4. Simpan Laporan
+- Klik **Simpan Laporan Hari Ini** agar data masuk ke riwayat laporan.
+### 5. Lihat Riwayat Laporan
+- Buka menu **Riwayat Laporan** untuk melihat data laporan nutrisi dari hari-hari sebelumnya.
+### 6. Dashboard 
+- Kunjungi **Dashboard** untuk melihat dan mengedit profil serta melihat informasi BMI pengguna.
+### 7. Logout
+- Klik **Logout** untuk keluar dari sistem.
+
+## 🎥 Cek Demo Website Kita Pada:
+👉 [https://wpwbmi.infinityfreeapp.com/]( https://wpwbmi.infinityfreeapp.com/)
+
 
 
