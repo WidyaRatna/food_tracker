@@ -78,7 +78,6 @@ food_tracker/
 ## 🚀 Langkah-langkah Instalasi Project
 
 ### 1. Clone Repository
-
 ```
 git clone https://github.com/WidyaRatna/food_tracker.git
 cd food_tracker
