@@ -105,7 +105,7 @@ C:\xampp\htdocs\food_tracker
 
 ## 📖 Panduan Penggunaan
 
-‎### 1. Registrasi / Login
+### 1. Registrasi / Login
 - Masuk ke menu **Register** dan isi data pribadi Anda.
 - Jika sudah memiliki akun, langsung **Login**.
 ### 2. Input Makanan
