@@ -39,34 +39,6 @@
 
 ---
 
-## 🚀 Langkah-langkah Instalasi Project
-
-### 1. Clone Repository
-```
-git clone https://github.com/WidyaRatna/food_tracker.git
-cd food_tracker
-```
-### 2. Pindahkan ke Direktori Web Server
-Jika menggunakan XAMPP, salin seluruh folder proyek ke direktori berikut:
-```
-C:\xampp\htdocs\food_tracker
-```
-### 3. Buka Proyek di VSCode
-- ‎Install VSCode jika belum punya
-- ‎Buka folder tersebut di VSCode
-### 4. Jalankan XAMPP
-- Pastikan anda sudah menginstall XAMPP
-- ‎Buka **XAMPP Control Panel** dan nyalakan server Apache & MySql
-### 5. Siapkan Database
-- Buka browser dan akses: [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)
-- Buat database baru dengan nama: `web_login`
-- Import file `web_login.sql` yang terdapat dalam folder proyek ke dalam database `web_login`.
-### 6. Jalankan Website
-- Setelah database disiapkan dan XAMPP berjalan, akses website melalui browser:
-  [http://localhost/food_tracker/](http://localhost/food_tracker/)
-
----
-
 ## 🗂️ Struktur File
 ```
 food_tracker/
@@ -103,6 +75,34 @@ food_tracker/
 
 ---
 
+## 🚀 Langkah-langkah Instalasi Project
+
+### 1. Clone Repository
+```
+git clone https://github.com/WidyaRatna/food_tracker.git
+cd food_tracker
+```
+### 2. Pindahkan ke Direktori Web Server
+Jika menggunakan XAMPP, salin seluruh folder proyek ke direktori berikut:
+```
+C:\xampp\htdocs\food_tracker
+```
+### 3. Buka Proyek di VSCode
+- ‎Install VSCode jika belum punya
+- ‎Buka folder tersebut di VSCode
+### 4. Jalankan XAMPP
+- Pastikan anda sudah menginstall XAMPP
+- ‎Buka **XAMPP Control Panel** dan nyalakan server Apache & MySql
+### 5. Siapkan Database
+- Buka browser dan akses: [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)
+- Buat database baru dengan nama: `web_login`
+- Import file `web_login.sql` yang terdapat dalam folder proyek ke dalam database `web_login`.
+### 6. Jalankan Website
+- Setelah database disiapkan dan XAMPP berjalan, akses website melalui browser:
+  [http://localhost/food_tracker/](http://localhost/food_tracker/)
+
+---
+
 ## 📖 Panduan Penggunaan
 
 ‎### 1. Registrasi / Login
@@ -120,6 +120,8 @@ food_tracker/
 - Kunjungi **Dashboard** untuk melihat dan mengedit profil serta melihat informasi BMI pengguna.
 ### 7. Logout
 - Klik **Logout** untuk keluar dari sistem.
+
+---
 
 ## 🎥 Cek Demo Website Kita Pada:
 👉 [https://wpwbmi.infinityfreeapp.com/]( https://wpwbmi.infinityfreeapp.com/)
