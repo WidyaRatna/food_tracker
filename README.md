@@ -126,5 +126,13 @@ C:\xampp\htdocs\food_tracker
 ## 🎥 Cek Demo Website Kita Pada:
 👉 [https://wpwbmi.infinityfreeapp.com/]( https://wpwbmi.infinityfreeapp.com/)
 
+---
+
+## ✍️ Dibuat Oleh
+- ITB_Widya Ratna Hertanti_37
+- ITB_Arya Nugraha_43
+- ITB_Ebenezer Puas Sihite_53
+
+
 
 
